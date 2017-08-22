@@ -1,3 +1,6 @@
+#Change git editor to vim
+Set the GIT_EDITOR environment variable: export GIT_EDITOR=vim
+
 1. Fork a repository from a "upstream" repository. Forked repository is known as "origin"
 
 2. Clone "origin" repository on laptop. This cloned repository is known as "local"
