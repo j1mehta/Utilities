@@ -58,3 +58,6 @@ $ git push origin --delete <feature>
 # Decorated git lot
 $ git log --oneline --decorate
 $ git log --numstat --decorate
+
+9. Clone a particular branch from git repo (and not all branches)
+$ git clone -b jatin_mehta1 --single-branch https://github.com/Itseez/opencv.git
